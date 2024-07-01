@@ -1,0 +1,15 @@
+{
+
+    "movies": [
+      {
+        "id": 0,
+        "userName": "name",
+        "isAdmin": false
+      },
+      {
+        "id": 1,
+        "userName": "name 2",
+        "isAdmin": false
+      }
+    ]
+  }

@@ -1,0 +1,47 @@
+.nav-bar {
+    background-color: #35764F;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+img {
+    width: 92px;
+    height: 55px;
+    top: -254px;
+    left: -410px;
+    gap: 0px;
+    border-radius: 39px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+}
+.menu{
+    width: 40%;
+    display: flex;
+    justify-content: space-around;
+    position: center;
+}
+li {
+    display: inline;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    position: center;
+    padding: 18px ;
+}
+#welcome-img {
+width: 528px;
+height: 392px;
+top: -148px;
+left: -249px;
+gap: 0px;
+border-radius: 59px 0px 0px 0px;
+opacity: 0px;
+
+}
+.footer {
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+}
